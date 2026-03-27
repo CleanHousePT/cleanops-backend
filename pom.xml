@@ -25,6 +25,7 @@
 		<module>shared-web</module>
 		<module>domain</module>
 		<module>user</module>
+		<module>shared</module>
 	</modules>
 	<scm>
 		<connection/>
